@@ -1,5 +1,5 @@
 public class Rules;
-
+{
 public void daRules()
 {
   	int ruleLoop=1;
@@ -24,4 +24,5 @@ else //error
 System.out.println("Error! please enter a correct response! [Y/N]");
 }
       }
+}
 }
