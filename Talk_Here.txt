@@ -2,3 +2,7 @@ Josh- Just trying to make it easier to communicate in one central spot. I liked 
       instance of it in the main file, but I'm having trouble finding out how you were planning on tracking which
       players turn it is. I have an int that contains the total player number, but nothing to dedicate individually to 
       every player, did you have a plan or am I not seeing something?
+
+Josh- I just made a few revisions on my end, but I can't get the program to run with the player class involved.
+      I was recieving something over 80 errors, I think we also need to add the if, else if statements in the player
+      class to a method to call on. Any thoughts?
