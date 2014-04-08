@@ -42,8 +42,9 @@ public static void main(String[] main)
 	final int COL=players;
 	final int ROW=5;
 	int num;
-	int[][] dice_Storage=new int[ROW][COL];
-	Dice_Clickety rollyPolly= new Dice_Clickety();
+	int[][] dice_Storage = new int[ROW][COL];
+	Player plays = new Player();
+	Dice_Clickety rollyPolly = new Dice_Clickety();
 	rollyPolly.roll1();
 	System.out.println(rollyPolly.Dice_Roll());
 																	}
