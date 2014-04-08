@@ -1,8 +1,9 @@
-public class Rules;
+import java.util.Scanner;
+public class Rules
 {
 public void daRules()
 {
-  	int ruleLoop=1;
+   int ruleLoop=1;
 while(ruleLoop==1)
      {
 Scanner keys=new Scanner(System.in);
