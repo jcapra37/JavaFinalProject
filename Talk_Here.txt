@@ -6,3 +6,5 @@ Josh- Just trying to make it easier to communicate in one central spot. I liked 
 Josh- I just made a few revisions on my end, but I can't get the program to run with the player class involved.
       I was recieving something over 80 errors, I think we also need to add the if, else if statements in the player
       class to a method to call on. Any thoughts?
+
+Mark-Sorry, I pushed the Player file out while it was still half baked, I’ll be working of that and pushing that out shortly.
